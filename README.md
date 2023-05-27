@@ -13,7 +13,7 @@ This is the repository that introduces research topics related to protecting the
   - [[paper]](https://arxiv.org/abs/2210.12651) [[code]](https://github.com/ChaosCodes/UNTL)
   - EMNLP 2022
 
-## Data Authorization Protection
+## Data Authorization Protection (namely unlearnable data or example protection)
 ### Image Data
 - Unlearnable Examples: Making Personal Data Unexploitable
   - [[paper]](https://arxiv.org/abs/2101.04898) [[code]](https://github.com/HanxunH/Unlearnable-Examples)
