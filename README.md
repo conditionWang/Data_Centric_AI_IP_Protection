@@ -2,6 +2,7 @@
 This is the repository that introduces research topics related to protecting the intellectual property (IP) of AI from a data-centric perspective. Such topics include data-centric model IP protection, data authorization protection, data copyright protection, and any other data-level technologies that protect IP of AI. More contents are coming, and at the end, we care about your uniqueness!!!
 
 ## Data-Centric Model Protection
+Verify your ownership of a certain model via certain data and authorize the usage of your model to certain data.
 ### Image Data
 - Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization
   - [[paper]](https://arxiv.org/abs/2106.06916) [[code]](https://github.com/conditionWang/NTL) 
@@ -13,7 +14,8 @@ This is the repository that introduces research topics related to protecting the
   - [[paper]](https://arxiv.org/abs/2210.12651) [[code]](https://github.com/ChaosCodes/UNTL)
   - EMNLP 2022
 
-## Data Authorization Protection (namely unlearnable data or example protection)
+## Data Authorization Protection (namely unlearnable data or examples)
+Prevent unauthorized data usage of model training, usually achieved by decreasing the model performance via poisoning attacks.
 ### Image Data
 - Unlearnable Examples: Making Personal Data Unexploitable
   - [[paper]](https://arxiv.org/abs/2101.04898) [[code]](https://github.com/HanxunH/Unlearnable-Examples)
@@ -83,6 +85,7 @@ This is the repository that introduces research topics related to protecting the
 
 
 ## Data Copyright Protection
+Verify your ownership of certain data via black-box model access.
 ### Image Data
 - Radioactive data: tracing through training
   - [[paper]](http://proceedings.mlr.press/v119/sablayrolles20a.html) [[code]](https://github.com/facebookresearch/radioactive_data)
