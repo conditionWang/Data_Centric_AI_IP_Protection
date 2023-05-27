@@ -10,6 +10,7 @@ Verify your ownership of a certain model via certain data and authorize the usag
 - Model Barrier: A Compact Un-Transferable Isolation Domain for Model Intellectual Property Protection
   - [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Model_Barrier_A_Compact_Un-Transferable_Isolation_Domain_for_Model_Intellectual_CVPR_2023_paper.pdf) [[code]](https://github.com/LyWang12/CUTI-Domain)
   - CVPR 2023
+### Other Data
 - Unsupervised Non-transferable Text Classification
   - [[paper]](https://arxiv.org/abs/2210.12651) [[code]](https://github.com/ChaosCodes/UNTL)
   - EMNLP 2022
