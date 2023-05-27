@@ -1,5 +1,5 @@
-# Data_Centric_Responsible_AI
-This is the repository that introduces research topics related to developing responsible AI from a data-centric perspective. Such topics include data-centric model protection, data authorization protection, data copyright protection, and any other data-level technologies that make AI model more responsible.
+# Data Centric AI Intellectual Proterty Protection
+This is the repository that introduces research topics related to protecting the intellectual property (IP) of AI from a data-centric perspective. Such topics include data-centric model IP protection, data authorization protection, data copyright protection, and any other data-level technologies that protect IP of AI.
 
 ## Data-Centric Model Protection
 ### Image Data
