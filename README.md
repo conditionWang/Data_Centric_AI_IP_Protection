@@ -1,5 +1,5 @@
-# Data Centric AI Intellectual Proterty Protection
-This is the repository that introduces research topics related to protecting the intellectual property (IP) of AI from a data-centric perspective. Such topics include data-centric model IP protection, data authorization protection, data copyright protection, and any other data-level technologies that protect IP of AI. More contents are coming, and at the end, we care about your uniqueness!!!
+# Data-Centric AI Intellectual Property Protection
+This repository introduces research topics related to protecting the intellectual property (IP) of AI from a data-centric perspective. Such topics include data-centric model IP protection, data authorization protection, data copyright protection, and any other data-level technologies that protect the IP of AI. More content is coming, and in the end, we care about your uniqueness!!!
 
 ## Data-Centric Model Protection
 Verify your ownership of a certain model via certain data and authorize the usage of your model to certain data.
@@ -10,6 +10,9 @@ Verify your ownership of a certain model via certain data and authorize the usag
 - Model Barrier: A Compact Un-Transferable Isolation Domain for Model Intellectual Property Protection
   - [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Model_Barrier_A_Compact_Un-Transferable_Isolation_Domain_for_Model_Intellectual_CVPR_2023_paper.pdf) [[code]](https://github.com/LyWang12/CUTI-Domain)
   - CVPR 2023
+- Domain Specified Optimization for Deployment Authorization
+  - [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Domain_Specified_Optimization_for_Deployment_Authorization_ICCV_2023_paper.html)
+  - ICCV 2023
 ### Other Data
 - Unsupervised Non-transferable Text Classification
   - [[paper]](https://arxiv.org/abs/2210.12651) [[code]](https://github.com/ChaosCodes/UNTL)
@@ -66,6 +69,15 @@ Prevent unauthorized data usage of model training, usually achieved by decreasin
 - GLAZE: Protecting Artists from Style Mimicry by Text-to-Image Models
   - [[paper]](https://www.shawnshan.com/files/publication/glaze.pdf) [[App]](https://glaze.cs.uchicago.edu/download.html)
   - Usenix Security 2023
+- Flew Over Learning Trap: Learn Unlearnable Samples by Progressive Staged Training
+  - [[paper]](https://arxiv.org/pdf/2306.02064.pdf) [[code]](https://github.com/CherryBlueberry/ST)
+  - Arxiv 2023
+- Segue: Side-information Guided Generative Unlearnable Examples for Facial Privacy Protection in Real World
+  - [[paper]](https://arxiv.org/pdf/2310.16061.pdf)
+  - Arxiv 2023
+- What Can We Learn from Unlearnable Datasets?
+  - [[paper]](https://arxiv.org/pdf/2305.19254.pdf) [[code]](https://github.com/psandovalsegura/learn-from-unlearnable)
+  - NeurIPS 2023
 
 ### Other Data
 - Unlearnable Examples: Protecting Open-Source Software from Unauthorized Neural Code Learning
@@ -82,6 +94,12 @@ Prevent unauthorized data usage of model training, usually achieved by decreasin
   - Poster at NDSS 2023
 - UPTON: Unattributable Authorship Text via Data Poisoning
   - [[paper]](https://arxiv.org/abs/2211.09717)
+  - Arxiv 2023
+- GraphCloak: Safeguarding Task-specific Knowledge within Graph-structured Data from Unauthorized Exploitation
+  - [[paper]](https://arxiv.org/abs/2310.07100)
+  - Arxiv 2023
+- Make Text Unlearnable: Exploiting Effective Patterns to Protect Personal Data
+  - [[paper]](https://arxiv.org/pdf/2307.00456.pdf)
   - Arxiv 2023
 
 
@@ -121,8 +139,26 @@ Verify your ownership of certain data via black-box model access.
 - MedLocker: A Transferable Adversarial Watermarking for Preventing Unauthorized Analysis of Medical Image Dataset
   - [[paper]](https://arxiv.org/abs/2303.09858)
   - Arxiv 2023
+- How to Detect Unauthorized Data Usages in Text-to-image Diffusion Models
+  - [[paper]](https://arxiv.org/pdf/2307.03108.pdf)
+  - Arxiv 2023
+- FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models
+  - [[paper]](https://arxiv.org/pdf/2310.02401.pdf)
+  - Arxiv 2023
+- Domain Watermark: Effective and Harmless Dataset Copyright Protection is Closed at Hand
+  - [[paper]](https://arxiv.org/abs/2310.14942) [[code]](https://github.com/JunfengGo/Domain-Watermark)
+  - NeurIPS 2023
+- DiffusionShield: A Watermark for Copyright Protection against Generative Diffusion Models
+  - [[paper]](https://arxiv.org/abs/2306.04642)
+  - Arxiv 2023
 
 ### Other Data 
 - CoProtector: Protect Open-Source Code against Unauthorized Training Usage with Data Poisoning
   - [[paper]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512225) [[code]](https://github.com/v587su/CoProtector)
   - WWW 2022
+- CodeMark: Imperceptible Watermarking for Code Datasets against Neural Code Completion Models
+  - [[paper]](https://arxiv.org/abs/2308.14401)
+  - FSE 2023
+- Watermarking Classification Dataset for Copyright Protection
+  - [[paper]](https://arxiv.org/abs/2305.13257)
+  - Arxiv 2023
